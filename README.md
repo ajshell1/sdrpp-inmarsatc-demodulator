@@ -52,4 +52,4 @@ Usage:
 
   3.  After some time, you'll see decoded frames numbers and BER data.
 
-  4.  Run stdcdec_parser(or other program to parse inmarsat-c frames like qstdcdec) and press "Start" button in the module.
+  4.  Run stdcdec_parser(or other program to parse inmarsat-c frames like qstdcdec) and press "Start" button in  the module.
